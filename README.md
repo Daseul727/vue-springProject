@@ -8,3 +8,4 @@
 ### 특이사항
 - front end port : 8080
 - back end port : 8081
+- database : h2
